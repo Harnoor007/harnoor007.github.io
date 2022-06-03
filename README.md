@@ -1,5 +1,4 @@
 # harnoor007.github.io
-<DOCTYPE! html>
 <html>
 <head>
 <title>My first Website</title>
@@ -19,3 +18,4 @@
 <p>This is Ford Mustang.<br/>It has 8 cylinder engine. Maximum power is 395 bHp at 6500rpm.<p/>
 <hr/>
 </body>
+  </html>
