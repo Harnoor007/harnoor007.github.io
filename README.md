@@ -10,7 +10,7 @@
 <p>I am passionate about automobiles.</p>
 <h1>Some of my favourite Cars.</h1>
 <h2>Lamborghini Aventador</h2>
-<img src="https://stimg.cardekho.com/images/carexteriorimages/930x620/Lamborghini/Aventador/6721/Lamborghini-Aventador-SVJ/1621849426405/front-left-side-47.jpg?tr=w-880,h-495"/>
+
   <a href="https://youtu.be/dQw4w9WgXcQ">
 <img alt="Qries" src="https://stimg.cardekho.com/images/carexteriorimages/930x620/Lamborghini/Aventador/6721/Lamborghini-Aventador-SVJ/1621849426405/front-left-side-47.jpg"></a>
       
